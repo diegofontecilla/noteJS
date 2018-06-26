@@ -4,6 +4,9 @@
       this._html = "<ul>";
 
       for(let i in noteList.view()){
+         if(noteList.view().length === 0) {
+            break;
+         }
          this._html = this._html + "<li><div>" + noteList.view()[i].text() + "</div></li>";
       }
 
