@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b32e513-d51d-44d2-8d09-5ff12ada735b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/note-controller-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/spec/note-controller-spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/note-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/note-controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/single-note-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/single-note-view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/note-list-view-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/spec/note-list-view-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/note-list-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/note-list-view.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,97 +16,44 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.43569022">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="note-controller.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/note-controller.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="108">
-                  <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="note-list-spec.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/spec/note-list-spec.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="note-list-view.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/note-list-view.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret line="11" selection-start-line="11" selection-end-line="11" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="note-model.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/note-model.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret line="11" selection-start-line="11" selection-end-line="11" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/test.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="assert.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/spec/assert.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="single-note-view.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/single-note-view.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="single-note-view-spec.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/spec/single-note-view-spec.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="note-controller-spec.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/spec/note-controller-spec.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="450">
-                  <caret line="25" column="86" selection-start-line="25" selection-start-column="86" selection-end-line="25" selection-end-column="86" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="single-note-view-spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/single-note-view-spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single-note-view.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/single-note-view.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="note-list-view.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/note-list-view.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="92" lean-forward="true" selection-start-line="15" selection-start-column="92" selection-end-line="15" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="note-list-view-spec.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spec/note-list-view-spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -132,9 +77,7 @@
         <option value="$PROJECT_DIR$/spec/note-spec.js" />
         <option value="$PROJECT_DIR$/src/note-list-model.js" />
         <option value="$PROJECT_DIR$/spec/note-list-spec.js" />
-        <option value="$PROJECT_DIR$/spec/note-list-view-spec.js" />
         <option value="$PROJECT_DIR$/spec/assert.js" />
-        <option value="$PROJECT_DIR$/src/note-list-view.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/test.html" />
@@ -142,6 +85,8 @@
         <option value="$PROJECT_DIR$/src/single-note-view.js" />
         <option value="$PROJECT_DIR$/src/note-controller.js" />
         <option value="$PROJECT_DIR$/spec/note-controller-spec.js" />
+        <option value="$PROJECT_DIR$/src/note-list-view.js" />
+        <option value="$PROJECT_DIR$/spec/note-list-view-spec.js" />
       </list>
     </option>
   </component>
@@ -194,7 +139,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="ind&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/index.html&#10;model&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/src/note-model.js&#10;note&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/spec/note-tests.js" />
+    <property name="SearchEverywhereHistoryKey" value="singlenotev&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/src/single-note-view.js&#10;sin&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/spec/single-note-view-spec.js&#10;ind&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/index.html&#10;model&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/src/note-model.js&#10;note&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/spec/note-tests.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JavaScript" />
     <property name="node.js.detected.package.prettier" value="true" />
@@ -235,18 +180,18 @@
       <workItem from="1530007752366" duration="12000" />
       <workItem from="1530007879240" duration="21598000" />
       <workItem from="1530085527488" duration="2907000" />
-      <workItem from="1530103526281" duration="1423000" />
+      <workItem from="1530103526281" duration="3100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27631000" />
+    <option name="totallyTimeSpent" value="29308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-122" y="-1200" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49954915" visible="true" weight="0.21800947" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49954915" visible="true" weight="0.15745129" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -264,6 +209,25 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49954915" visible="true" weight="0.21800947" />
+      <window_info id="Structure" order="1" sideWeight="0.50045085" side_tool="true" weight="0.21800947" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.28494138" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32912534" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -433,20 +397,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SpecRunner.html" />
     <entry file="file://$PROJECT_DIR$/spec/note-model-spec.js" />
-    <entry file="file://$PROJECT_DIR$/spec/note-spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/note-list-view-spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -468,66 +418,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
+    <entry file="file://$PROJECT_DIR$/spec/note-controller-spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/single-note-view-spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/single-note-view.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/assert.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/note-model.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/note-list-view.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/note-list-spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="486">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/note-controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        <state relative-caret-position="198">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/note-controller-spec.js">
+    <entry file="file://$PROJECT_DIR$/src/note-model.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="86" selection-start-line="25" selection-start-column="86" selection-end-line="25" selection-end-column="86" />
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/assert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/single-note-view-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/note-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/note-list-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/note-list-view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="92" lean-forward="true" selection-start-line="15" selection-start-column="92" selection-end-line="15" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/single-note-view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/note-list-view-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
         </state>
       </provider>
     </entry>
