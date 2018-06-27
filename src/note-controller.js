@@ -7,7 +7,6 @@
     exports.NoteController = NoteController;
 })(this);
 
-NoteController.prototype.update = function () {
-    const app = document.getElementById("app");
-    app.innerHTML = this._view.text();
+NoteController.prototype.update = function (element) {
+    element.innerHTML = this._view.text();
 };
