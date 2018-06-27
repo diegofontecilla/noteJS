@@ -13,7 +13,7 @@
                 break;
             }
 
-            this._html = this._html + "<li><div>" + reduceLength(noteList.view()[i].text()) + "</div></li>";
+            this._html = this._html + "<li><div id = '" + String(Number(i)+1) + "'>" + reduceLength(noteList.view()[i].text()) + "</div></li>";
         }
 
         this._html = this._html + "</ul>";

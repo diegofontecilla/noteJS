@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b32e513-d51d-44d2-8d09-5ff12ada735b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spec/note-list-view-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/spec/note-list-view-spec.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/note-list-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/note-list-view.js" afterDir="false" />
     </list>
@@ -35,20 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="note-list-view.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="note-list-view.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/note-list-view.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="15" column="92" lean-forward="true" selection-start-line="15" selection-start-column="92" selection-end-line="15" selection-end-column="92" />
+              <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="note-list-view-spec.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="note-list-view-spec.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/note-list-view-spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
+            <state relative-caret-position="144">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -85,13 +86,19 @@
         <option value="$PROJECT_DIR$/src/single-note-view.js" />
         <option value="$PROJECT_DIR$/src/note-controller.js" />
         <option value="$PROJECT_DIR$/spec/note-controller-spec.js" />
-        <option value="$PROJECT_DIR$/src/note-list-view.js" />
         <option value="$PROJECT_DIR$/spec/note-list-view-spec.js" />
+        <option value="$PROJECT_DIR$/src/note-list-view.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -139,7 +146,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="singlenotev&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/src/single-note-view.js&#10;sin&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/spec/single-note-view-spec.js&#10;ind&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/index.html&#10;model&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/src/note-model.js&#10;note&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/spec/note-tests.js" />
+    <property name="SearchEverywhereHistoryKey" value="list-view&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/src/note-list-view.js&#10;noteli&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/spec/note-list-view-spec.js&#10;singlenotev&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/src/single-note-view.js&#10;sin&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/spec/single-note-view-spec.js&#10;ind&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/index.html&#10;model&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/src/note-model.js&#10;note&#9;FILE&#9;file:///Users/bigzy/Projects/noteApp/spec/note-tests.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JavaScript" />
     <property name="node.js.detected.package.prettier" value="true" />
@@ -147,7 +154,7 @@
     <property name="node.js.selected.package.prettier" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -180,12 +187,12 @@
       <workItem from="1530007752366" duration="12000" />
       <workItem from="1530007879240" duration="21598000" />
       <workItem from="1530085527488" duration="2907000" />
-      <workItem from="1530103526281" duration="3100000" />
+      <workItem from="1530103526281" duration="3870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29308000" />
+    <option name="totallyTimeSpent" value="30078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-122" y="-1200" width="1920" height="1200" extended-state="0" />
@@ -198,7 +205,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32912534" />
       <window_info id="Structure" order="1" sideWeight="0.50045085" side_tool="true" weight="0.21800947" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28494138" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.28494138" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -453,13 +460,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/single-note-view-spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/note-spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -474,10 +474,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/note-list-view.js">
+    <entry file="file://$PROJECT_DIR$/spec/single-note-view-spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="92" lean-forward="true" selection-start-line="15" selection-start-column="92" selection-end-line="15" selection-end-column="92" />
+        <state relative-caret-position="72">
+          <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
         </state>
       </provider>
     </entry>
@@ -490,8 +490,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/note-list-view-spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
+        <state relative-caret-position="144">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/note-list-view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
         </state>
       </provider>
     </entry>
