@@ -1,8 +1,10 @@
 'use strict';
 (function (exports) {
 
-    function reduceLength(text){
-        return text.substr(0,20);
+    function reduceLength(text) {
+
+        console.log(text);
+        return text.substr(0, 20);
     }
 
     function NoteListView(noteList){
@@ -13,7 +15,7 @@
                 break;
             }
 
-            this._html = this._html + "<li><div id = '" + String(Number(i)+1) + "'>" + reduceLength(noteList.view()[i].text()) + "</div></li>";
+            this._html = this._html + "<li><a href = '#" + String(Number(i)+1) + "'>" + reduceLength(noteList.view()[i].text()) + "</a></li>";
         }
 
         this._html = this._html + "</ul>";

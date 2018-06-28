@@ -11,5 +11,14 @@
     <script src ="src/note-list-model.js"></script>
     <script src = "src/note-list-view.js"></script>
     <script src = 'src/note-controller.js'></script>
+    <script type="text/javascript">
+        let text = "Favourite drink: seltzer";
+        let notelist = new NoteListModel();
+        notelist.add(text);
+        notelist.add("this is some more text as an item");
+        let controller = new NoteController(notelist);
+        let app = document.getElementById('app');
+        controller.update(app);
+    </script>
 </body>
 </html>

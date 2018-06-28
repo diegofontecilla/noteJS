@@ -3,7 +3,6 @@
         this.addCallCount = 0;
     }
     NoteListDouble.prototype.add = function (string) {
-        console.log('add called');
         this.addCallCount++;
     };
     NoteListDouble.prototype.getCount = function () {
@@ -19,6 +18,7 @@
 
     let element = new DocumentDouble();
     let notedouble = new NoteListDouble();
+    notedouble.add('Favourite drink: seltzer');
 
     let controller = new NoteController(notedouble);
     assert.isTrue("The NoteController calls the doubles add function once", notedouble.getCount() === 1);
